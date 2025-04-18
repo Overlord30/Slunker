@@ -1,0 +1,14 @@
+{
+  "Id": "TedTheTeadrinker.Slunker",
+  "PackPath": "TedTheTeadrinker.Slunker.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "TheSlunker",
+    "Author": "TedTheTeadrinker",
+    "Version": "1.0.0",
+    "Description": "Lure-based mod that adds the iconic Slunker tshirt(s)!!",
+    "Homepage": "https://github.com/RAYTRAC3R/RAYTRAC3R-s-Cosmetics/"
+  }
+}
